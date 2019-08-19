@@ -7,7 +7,7 @@ import DayWeather from './components/DayWeather';
 import ExtendedWeather from './components/ExtendedWeather';
 
 //insert valid API key from weatherbit
-const API_KEY = 'xxx';
+const API_KEY = 'YOUR API KEY';
 
 class App extends React.Component {
 	state = {
