@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requirements
+
+Get a free api key from WeatherBit. Get it <a href="https://www.weatherbit.io/account/create" rel="nofollow">here</a>
 
 ## Available Scripts
 
